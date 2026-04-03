@@ -5,6 +5,7 @@ int main(){
 	printf("sdfsdfsfdsf");
 	
 	sleep(1);
+	printf("version 1.1");
 	return 0;
 }
 
