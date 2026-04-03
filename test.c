@@ -1,7 +1,10 @@
 #include <stdio.h>
 
 int main(){
-	printf("testing..\n");
+	printf("sdfxcsfzdzzc");
+	printf("sdfsdfsfdsf");
+	
+	sleep(1);
 	return 0;
 }
 
